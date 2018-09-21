@@ -1,5 +1,5 @@
 _repo: Josephine-E-Butler-An-Autobiographical-Memoir_53534
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Stuart, James
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1913
     gutenberg_agent_id: '49024'
     url: http://www.gutenberg.org/2009/agents/49024
+covers:
+- cover_type: archival
+  image_path: 53534-h/images/cover.jpg
 creator:
   author:
     agent_name: Butler, Josephine Elizabeth Grey
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '47416'
     url: http://www.gutenberg.org/2009/agents/47416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53534#Josephine-E-Butler-An-Autobiographical-Memoir
 gutenberg_issued: '2016-11-16'
 gutenberg_type: Text
 identifiers:
