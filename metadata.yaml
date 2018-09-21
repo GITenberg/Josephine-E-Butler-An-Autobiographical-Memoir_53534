@@ -1,0 +1,45 @@
+_repo: Josephine-E-Butler-An-Autobiographical-Memoir_53534
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Stuart, James
+    birthdate: 1843
+    deathdate: 1913
+    gutenberg_agent_id: '49024'
+    url: http://www.gutenberg.org/2009/agents/49024
+creator:
+  author:
+    agent_name: Butler, Josephine Elizabeth Grey
+    alias: Butler, Josephine E.
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '5456'
+    url: http://www.gutenberg.org/2009/agents/5456
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Butler
+  editors:
+  - agent_name: Johnson, Lucy A. Nutter
+    gutenberg_agent_id: '47417'
+    url: http://www.gutenberg.org/2009/agents/47417
+  - agent_name: Johnson, George William
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '47416'
+    url: http://www.gutenberg.org/2009/agents/47416
+description: ''
+gutenberg_issued: '2016-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53534'
+  lccn: a11001133
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Butler, Josephine Elizabeth Grey, 1828-1906'
+- !lcsh 'Social reformers -- Great Britain -- Biography'
+- !lcc 'JK'
+- !lcsh 'Women social reformers -- Great Britain -- Biography'
+- GITenberg
+title: 'Josephine E. Butler: An Autobiographical Memoir'
+url: http://www.gutenberg.org/ebooks/53534
